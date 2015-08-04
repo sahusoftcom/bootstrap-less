@@ -12,9 +12,6 @@ This project is a base for Bootstrap less projects
 - `bower install` 
 - `grunt serve` - for preview 
 - `grunt` - for building
-## Roadmap
-
-- Add sample AJAX calls and make the directives more modular
 
 ### Automation tools
 
