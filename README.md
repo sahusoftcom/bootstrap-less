@@ -10,7 +10,7 @@ This project is a base for Bootstrap less projects
 - cd `project-directory`
 - `npm install` 
 - `bower install` 
-- `grunt serve` - for preview
+- `grunt serve` - for preview 
 - `grunt` - for building
 ## Roadmap
 
